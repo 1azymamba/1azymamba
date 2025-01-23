@@ -1,4 +1,3 @@
-## Hi there 👋
 ![alt text](image.png)
 <!--
 **1azymamba/1azymamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
