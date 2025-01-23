@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![1azymamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=1azymamba&show_icons=true&theme=radical)
+![1azymamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=1azymamba&show_icons=true)
+
 <!--
 **1azymamba/1azymamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
