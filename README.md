@@ -6,9 +6,8 @@
 ### 🐦‍⬛ [Hackers Guild](https://hackers-guild.tech/)
 **This is an OSINT Bounty Platform. OSINTers can earn bounties by solving client requests. 👇Sign up from here.**
 <a href="https://hackers-guild.tech/">
-  <img src="logo_fonto_mod_0105.png" alt="alt text">
+  <img src="logo.jpeg" alt="alt text">
 </a>
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1azymamba&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=1azymamba&theme=tokyonight&show_icons=ture" />
