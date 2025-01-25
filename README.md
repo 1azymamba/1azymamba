@@ -1,4 +1,4 @@
-![alt text](image.png)
+<img src="image.png" alt="alt text" width="300">
 📍 Japan | 🔍 Red Teaming | 🕵 OSINT
   
 
