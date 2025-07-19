@@ -5,11 +5,7 @@
 ## Project ShowCase
  [Zipang Academy!](https://1azymamba.github.io)
 
-### 🐦‍⬛ [Hackers Guild](https://hackers-guild.tech/)
-**This is an OSINT Bounty Platform. OSINTers can earn bounties by solving client requests.**
-<a href="https://hackers-guild.tech/">
-  <img src="logo.jpeg" alt="alt text">
-</a>
+
 
 
 <!--
