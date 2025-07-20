@@ -3,7 +3,7 @@
 
 
 ## Project ShowCase
- [Zipang Academy!](https://1azymamba.github.io)
+ [Zipang Academy!](https://zipang-academy.com/)
 
 
 
