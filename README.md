@@ -1,5 +1,5 @@
 <img src="image.png" alt="alt text" width="1300">
-📍 Japan | 🔍 Red Teaming | 🕵 OSINT
+📍 Japan | 🔍 Red Teaming
 
 
 ## Project ShowCase
