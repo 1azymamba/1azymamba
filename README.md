@@ -1,12 +1,4 @@
-/*<img src="image.png" alt="alt text" width="1300">*/
 📍 Japan | 🔍 Red Teaming
-
-
-## Project ShowCase
- [Zipang Academy!](https://zipang-academy.com/)
-
-
-
 
 <!--
 ### 🔍 Other Notable Projects
